@@ -11,7 +11,7 @@
         <module>codefalse-tools-common</module>
     </modules>
     <packaging>pom</packaging>
-    
+
     <dependencyManagement>
         <dependencies>
             <!-- https://mvnrepository.com/artifact/junit/junit -->
